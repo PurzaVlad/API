@@ -1,0 +1,16 @@
+{
+    "animale": [
+        {
+            "type": "Dog",
+            "image": "https://github.com/PurzaVlad/Aplicatie/tree/main/ImaginiApiListaAnimale/dog.png"
+        },
+        {
+            "type": "Cat",
+            "image": "https://github.com/PurzaVlad/Aplicatie/tree/main/ImaginiApiListaAnimale/cat.png"
+        },
+        {
+            "type": "rabbit",
+            "image": "https://github.com/PurzaVlad/Aplicatie/tree/main/ImaginiApiListaAnimale/rabbit.png"
+        }
+    ]
+}
